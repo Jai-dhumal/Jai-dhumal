@@ -1,193 +1,202 @@
-# Hi, I'm Jaydeep Dhumal 👋
+<div align="center">
 
-🎓 Computer Engineering Student  
-💻 Aspiring Software Developer  
-📍 India
+# 👋 Hi, I'm Jaydeep Dhumal
 
-I am a Computer Engineering student who enjoys learning software development by
-building projects, solving programming problems, and practicing different
-technologies.
+### 💻 Computer Engineering Student | Aspiring Software Developer
 
-I believe in understanding the logic behind a problem rather than simply
-memorizing solutions.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Jai-dhumal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
----
+<a href="https://github.com/Jai-dhumal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/jaydeep-dhumal-014a41297">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-## 👨‍💻 About Me
-
-- 🎓 Pursuing Bachelor of Engineering in Computer Engineering
-- 💻 Interested in Software Development and Problem Solving
-- 🧠 Practicing Data Structures & Algorithms
-- 🗄️ Learning and practicing SQL
-- ☕ Practicing Java and object-oriented programming
-- 🌐 Building projects using JavaScript and the MERN stack
-- 🔧 Using Git and GitHub to manage and document my work
-- 📚 Continuously learning through coding practice and projects
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 About Me
 
-### Programming Languages
-
-- Java
-- C
-- C++
-- JavaScript
-- SQL
-
-### Web Development
-
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-### Programming & Problem Solving
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
-- SQL Query Practice
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
+* 🎓 Computer Engineering student
+* 💻 Aspiring Software Developer
+* 🧠 Practicing **Data Structures & Algorithms**
+* ☕ Learning and building with **Java**
+* 🌐 Exploring **JavaScript & MERN Stack**
+* 🗄️ Practicing **SQL & Database concepts**
+* 🧩 Solving coding problems on **LeetCode**
+* 🔨 Building academic and personal projects
+* 📚 Currently focused on improving my problem-solving and development skills
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js" alt="Programming Languages"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" alt="Web Development"/>
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Database and Tools"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+   ↓
+Data Structures & Algorithms
+   ↓
+Problem Solving
+   ↓
+SQL & Database
+   ↓
+JavaScript
+   ↓
+MERN Stack
+   ↓
+Software Development
+```
+
+---
+
+## 💻 Featured Projects
 
 ### 🤖 AI Based Code Validation with Jaccard Algorithm
 
-A college project focused on code similarity checking and code validation.
+Academic project focused on validating submitted code and identifying similarity using the **Jaccard algorithm**, with Gemini API used for additional project functionality.
 
-The project explores the use of Jaccard similarity for identifying similar
-code and integrates Gemini API for additional code-related functionality.
-
-**Technologies explored:**
-
-- MERN Stack
-- Jaccard Similarity
-- Gemini API
-- Database
-- Authentication
-- Student / Teacher workflow
-
-> This project is being developed and improved as part of my academic work.
+**Tech:** MERN Stack • JavaScript • MongoDB • Gemini API • Jaccard Similarity
 
 ---
 
-### 📊 Blinkit Sales Analysis
+### 🛒 Blinkit Sales Analysis
 
-A data analysis project based on Blinkit sales data.
+A data analysis project based on Blinkit sales data, created to practice data analysis and understand business-related insights from datasets.
 
-The project focuses on exploring sales data and extracting useful information
-through data analysis and visualization.
-
----
-
-### 🎲 DICE ROLLER
-
-A JavaScript-based project created to practice JavaScript fundamentals,
-DOM manipulation, and user interaction.
+**Tech:** Data Analysis • SQL / Data Handling
 
 ---
 
-### 📝 Todo App
+### 🎲 Dice Roller
 
-A simple JavaScript project created to practice:
+A beginner-friendly project created to practice programming logic and user interaction.
 
-- DOM manipulation
-- Events
-- Event handling
-- Adding and removing tasks
-- Working with HTML elements using JavaScript
+**Tech:** JavaScript / Web Development
 
 ---
 
-## 🧠 Problem Solving
+### ✅ Todo App
 
-I regularly practice programming problems to improve my logical thinking and
-problem-solving skills.
+A simple task-management application built while practicing JavaScript DOM manipulation and event handling.
 
-My practice includes:
-
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Two Pointer techniques
-- Loops
-- Recursion
-- Basic Data Structures
-- SQL Problems
-
-I also practice problems on LeetCode using languages such as Java, C++,
-JavaScript, C, and SQL.
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
-## 📚 Current Learning
+## 🧠 Coding Practice
 
-I am currently focusing on strengthening my fundamentals in:
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-- Data Structures & Algorithms
-- Java
-- SQL
-- JavaScript
-- Web Development
-- Object-Oriented Programming
-- Software Testing and Automation
+### 🔥 What I'm Practicing
 
-My approach is to learn a concept, implement it, solve problems related to it,
-and then use it in projects whenever possible.
-
----
-
-## 📂 What You'll Find on My GitHub
-
-My repositories contain a combination of:
-
-- Programming practice
-- DSA solutions
-- JavaScript practice
-- SQL practice
-- Web development projects
-- Academic projects
-- Data analysis projects
-
-Some repositories are still being developed and will be made public as they
-become ready.
+* Arrays
+* Strings
+* Two Pointers
+* Searching
+* Sorting
+* Hashing
+* SQL
+* Basic DSA
+* Problem Solving
 
 ---
 
-## 🎯 My Goal
+## 📊 GitHub Stats
 
-My goal is to become a strong software developer by building a solid foundation
-in programming, problem solving, software development, and practical project
-development.
-
-I am focusing on consistent learning and improving my understanding one
-concept at a time.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai-dhumal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jaydeep's GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-dhumal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🔥 GitHub Streak
 
-### LinkedIn
-
-www.linkedin.com/in/jaydeep-dhumal-014a41297
-
-### GitHub
-
-github.com/Jai-dhumal
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jai-dhumal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jai-dhumal/Jai-dhumal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jai-dhumal/Jai-dhumal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jai-dhumal/Jai-dhumal/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Become a strong software developer
+* 🧠 Strengthen DSA and problem-solving skills
+* ☕ Improve Java fundamentals
+* 🗄️ Master SQL
+* 🌐 Build more full-stack projects
+* 💻 Solve more LeetCode problems
+* 📂 Maintain clean and meaningful GitHub repositories
+* 📖 Learn by building rather than only watching tutorials
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Jai-dhumal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jaydeep-dhumal-014a41297">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Consistency beats intensity."
 
 ⭐ Thanks for visiting my profile!
+
+</div>
